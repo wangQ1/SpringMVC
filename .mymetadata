@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringMvcUserManage"
+  id="myeclipse.1510302464177"
+  context-root="/s"
+  j2ee-spec="5.0"
+  archive="SpringMvcUserManage.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
